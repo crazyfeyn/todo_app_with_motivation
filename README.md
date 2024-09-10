@@ -1,16 +1,25 @@
-# flutter_application_1
+# Todo App with Motivation
 
-A new Flutter project.
+**Todo App with Motivation** is a productivity app that helps users manage their tasks efficiently while staying motivated through the Pomodoro technique. Stay on track with your to-dos and enjoy motivational quotes along the way!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add, Edit, and Delete Tasks**: Easily manage your tasks.
+- **Built-in Pomodoro Timer**: Use the Pomodoro technique for focused work sessions (25-minute work intervals followed by a short break).
+- **Motivational Quotes**: After completing tasks, receive a motivational quote to keep you inspired.
+- **Task Completion Tracking**: Monitor progress as you complete your to-do list.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Dart**: Core programming language used for development.
+- **Flutter**: Framework for building the user interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+*Include screenshots of the app interface here.*
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/crazyfeyn/todo_app_with_motivation.git
